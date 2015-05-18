@@ -876,7 +876,7 @@ msgstr "موضوع"
 #: alo-easymail_functions.php:1227
 #@ alo-easymail
 msgid "Subscribe"
-msgstr "تصویب"
+msgstr "ثبت"
 
 #: alo-easymail_subscribers.php:26
 #@ alo-easymail
